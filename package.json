@@ -1,0 +1,16 @@
+{
+  "name": "consul",
+  "version": "0.1",
+  "description": "Consul test.",
+  "author": "fsn",
+  "engines": {
+    "node": ">=14.18.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "consul": "0.40.0"
+  },
+  "devDependencies": {
+    "@types/consul": "^0.23.34"
+  }
+}
